@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "755988518855",
+    "firebase_url": "https://india-7ac45.firebaseio.com",
+    "project_id": "india-7ac45",
+    "storage_bucket": "india-7ac45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755988518855:android:617e6a3fbe0dba7cf26be2",
+        "android_client_info": {
+          "package_name": "times.of.india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755988518855-btimbs6blnogsjr8f8lae9rqquv50sij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "times.of.india",
+            "certificate_hash": "057298ed79131ce7614e10d62a27181244364531"
+          }
+        },
+        {
+          "client_id": "755988518855-h79pau65qjiq85s43soutib068looigu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkXJBNSe89pk1tTPC-h3Y5ehwjUSPDQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755988518855-h79pau65qjiq85s43soutib068looigu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
